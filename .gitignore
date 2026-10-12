@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# Course handout (not my work, do not redistribute)
+Assignment_1_Advent_2026_MiniProjects.pdf
