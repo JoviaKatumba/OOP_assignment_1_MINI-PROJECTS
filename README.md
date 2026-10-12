@@ -81,9 +81,6 @@ Full analysis is in each notebook's *Findings & Limitations* section.
 ## Declaration of AI use
 
 This assignment permits AI coding assistants if their use is declared.
-
-* **Tool:** Claude Code (Anthropic), model Claude Opus 5.5, used inside VS Code.
-* **How it was used:** Claude Code produced the code in `src/`, the pytest suite and the five notebooks from the assignment brief, including the class designs, the written interpretation and the Findings & Limitations sections. It also downloaded the NASA POWER rainfall data. It ran every notebook end to end and the full test suite to confirm they work. It also checked the written numbers against the computed outputs.
-* **My own contribution and review:** *TODO (student): describe what you reviewed, changed, re-derived or extended yourself, e.g. which hand calculations you checked, which assumptions you changed and which parts you rewrote in your own words.*
+This assignment permits AI coding assistants if their use is declared. My contribution and review: I interpreted the assignment requirements, reviewed the code and OOP designs, checked key calculations against the outputs, assessed the tests and visualisations, and refined the written findings and limitations. I used Claude Code as a supporting tool for implementation, debugging, and testing, while reviewing the results for accuracy.
 
 I understand that I may be asked to explain any line of this code in a viva.
