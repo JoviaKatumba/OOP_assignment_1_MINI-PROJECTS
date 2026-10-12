@@ -82,4 +82,4 @@ Full analysis is in each notebook's *Findings & Limitations* section.
 
  My contribution and review: I interpreted the assignment requirements, reviewed the code and OOP designs and checked key calculations against the outputs. I also assessed the tests and visualisations and refined the written findings and limitations. I used Claude Code as a supporting tool for implementation, debugging, and testing, while reviewing the results for accuracy.
 
-I understand that I may be asked to explain any line of this code in a viva.
+I understand that I may be asked to explain any line of this code.
