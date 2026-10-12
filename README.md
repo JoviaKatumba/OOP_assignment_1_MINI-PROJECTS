@@ -80,7 +80,6 @@ Full analysis is in each notebook's *Findings & Limitations* section.
 
 ## Declaration of AI use
 
-This assignment permits AI coding assistants if their use is declared.
-This assignment permits AI coding assistants if their use is declared. My contribution and review: I interpreted the assignment requirements, reviewed the code and OOP designs, checked key calculations against the outputs, assessed the tests and visualisations, and refined the written findings and limitations. I used Claude Code as a supporting tool for implementation, debugging, and testing, while reviewing the results for accuracy.
+ My contribution and review: I interpreted the assignment requirements, reviewed the code and OOP designs, checked key calculations against the outputs, assessed the tests and visualisations, and refined the written findings and limitations. I used Claude Code as a supporting tool for implementation, debugging, and testing, while reviewing the results for accuracy.
 
 I understand that I may be asked to explain any line of this code in a viva.
